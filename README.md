@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, C++, Java
 - **Frontend:** React, HTML, CSS, Bootstrap
-- **Backend:** Node.js, Express, Django, Flask
+- **Backend:** Node.js, Express
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Version Control:** Git, GitHub
 
@@ -20,8 +20,9 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 ![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartikey1413&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** skartikey1199@gmail.com
+- **Email:** [Kartikey's Gmail](skartikey1199@gmail.com)
 - **LinkedIn:** [Kartikey's LinkedIn](https://www.linkedin.com/in/kartikey-sharma-431310215)
+- **Instagram:** [Kartikey's Instagram](https://www.instagram.com/official.kartik_ig)
 
 ## 🔥 Projects
 Here are a few projects I've worked on recently:
