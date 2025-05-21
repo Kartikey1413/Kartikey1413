@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about software development, and I love working on new and exciting projects. Here's a bit about me:
 
 ## 🚀 About Me
-- 💻 Software Developer
+- 💻 Web Developer
 - 🌐 Interested in Web Development, AI, and Open Source
 - 📚 Always learning and exploring new technologies
 - 🎓 Graduate in Computer Science
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 ![Kartikey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartikey1413&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** [Kartikey's Gmail](skartikey1199@gmail.com)
+- **Email:** skartikey1199@gmail.com
 - **LinkedIn:** [Kartikey's LinkedIn](https://www.linkedin.com/in/kartikey-sharma-431310215)
 - **Instagram:** [Kartikey's Instagram](https://www.instagram.com/official.kartik_ig)
 
